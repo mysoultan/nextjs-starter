@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export "
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
